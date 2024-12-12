@@ -1,0 +1,15 @@
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/bin/Debug/net8.0/ContactBook
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/bin/Debug/net8.0/ContactBook.deps.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/bin/Debug/net8.0/ContactBook.runtimeconfig.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/bin/Debug/net8.0/ContactBook.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/bin/Debug/net8.0/ContactBook.pdb
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.AssemblyInfoInputs.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.AssemblyInfo.cs
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.csproj.CoreCompileInputs.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.sourcelink.json
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/refint/ContactBook.dll
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.pdb
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ContactBook.genruntimeconfig.cache
+/Users/dilmiwickramarathna/Documents/C#/Projects/Contact_Book/Contact_Book/ContactBook/obj/Debug/net8.0/ref/ContactBook.dll
